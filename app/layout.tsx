@@ -15,7 +15,7 @@ const FonttSans = Plus_Jakarta_Sans({
 // });
 
 export const metadata: Metadata = {
-  title: "Care Pulus",
+  title: "MediLab Hospital",
   description: "A healthcare management system",
 };
 
